@@ -15,6 +15,29 @@
 
     </header>
     <main>
+        <div class="">
+            <div class="mx-auto card col-6">
+                <div class="card-header flexbox">
+                    <span>user name</span>
+                    <strong>Title</strong>
+                </div>
+                <div class="card-body">
+                    <p class="card-text">
+                        今日も暖かいですね。
+
+                    </p>
+                </div>
+                <div class="card-footer bg-white text-right">
+                    <div class="btn-primary">
+                        編集する
+                    </div>
+                    <div class="btn-danger">
+                        削除する
+                    </div>
+                </div>
+            </div>
+        </div>
+        
     </main>
     <footer>
 
