@@ -1,0 +1,59 @@
+.rounded-lg {
+    border-radius: .5rem;
+}
+
+.text-base {
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+
+label {
+    margin-top: 0.5rem;
+}
+
+.shadow {
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+}
+
+a {
+    color: #333;
+}
+
+.navMenu {
+    display: flex;
+    justify-content: flex-end;
+}
+
+nav {
+    width: 30%;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn-green {
+    background-color: #019E9F;
+    color: white;
+}
+
+.btn-green:hover {
+    background-color: rgba(0,198,198,0.8);
+    color: white;
+}
+
+header {
+    background-color: rgba(0,247,37,0.7);
+    height: 72px;
+}
+
+footer {
+    background-color: rgb(0,247,37,0.7);
+    height: 64px;
+    line-height: 64px;
+}
+
+.inline-block {
+    display: inline-block !importanti;
+}
